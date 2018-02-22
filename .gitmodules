@@ -1,0 +1,3 @@
+[submodule "ext-jdhttpapi"]
+	path = ext-jdhttpapi
+	url = https://github.com/nemec/JDHttpAPI.git
